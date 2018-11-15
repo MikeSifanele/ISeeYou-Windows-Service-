@@ -1,0 +1,10 @@
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\bin\Debug\ISeeYou.exe.config
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\bin\Debug\ISeeYou.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\bin\Debug\ISeeYou.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\obj\Debug\ISeeYou.ProjectInstaller.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\obj\Debug\ISeeYou.ISeeYou.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\obj\Debug\ISeeYou.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\obj\Debug\ISeeYou.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\obj\Debug\ISeeYou.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\obj\Debug\ISeeYou.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\DDP\ISeeYou(service)\ISeeYou\ISeeYou\obj\Debug\ISeeYou.csprojAssemblyReference.cache

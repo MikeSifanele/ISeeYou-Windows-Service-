@@ -1,0 +1,10 @@
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.exe.config
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.exe
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.pdb
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\obj\x86\Debug\ISeeYou.ProjectInstaller.resources
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\obj\x86\Debug\ISeeYou.ISeeYou.resources
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\obj\x86\Debug\ISeeYou.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\obj\x86\Debug\ISeeYou.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\obj\x86\Debug\ISeeYou.exe
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\obj\x86\Debug\ISeeYou.pdb
+C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\obj\x86\Debug\ISeeYou.csprojAssemblyReference.cache

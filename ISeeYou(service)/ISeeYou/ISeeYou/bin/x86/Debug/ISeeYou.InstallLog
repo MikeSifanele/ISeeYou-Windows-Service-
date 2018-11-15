@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.InstallLog
+   assemblypath = C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.exe
+Installing service Directory Monitor...
+Service Directory Monitor has been successfully installed.
+Creating EventLog source Directory Monitor in log Application...
+Committing assembly 'C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.InstallLog
+   assemblypath = C:\Users\Mike.Sifanele\source\repos\ISeeYou(service)\ISeeYou\ISeeYou\bin\x86\Debug\ISeeYou.exe
